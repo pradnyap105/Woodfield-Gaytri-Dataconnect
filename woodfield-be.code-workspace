@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.iconTheme": "vscode-icons",
+    "prettier.trailingComma": "all",
+    "git.ignoreLimitWarning": true
+  }
+}
